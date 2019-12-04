@@ -13,13 +13,14 @@
 
 
 
-<!-- the below embeds an image in website -->
+<p align="center">
 Testing setup
 <img src="Full_Setup.jpg" width="800" />
 
-
+<p align="center">
 Device Under Test (DUT)
-
+</p>
+<p align="center">
 <img src="ClamShell.jpg" width="35%" />
 
 Performing Test
