@@ -11,8 +11,8 @@
 ## MECA 482 Controls - Temperature Control System Group Project Website
 
 
-
-
+</p>
+</p>
 <p align="center">
 Testing setup
 <img src="Full_Setup.jpg" width="800" />
@@ -23,13 +23,22 @@ Device Under Test (DUT)
 <p align="center">
 <img src="ClamShell.jpg" width="35%" />
 
+<p align="center">
 Performing Test
+</p>
+<p align="center">
 <img src="Testing.jpg" width="50%" />
 
+<p align="center">
 DMM with K-Type Thermocouple Displaying Temperature
+</p>
+<p align="center">
 <img src="Temperature.jpg" width="50%" />
 
+<p align="center">
 Results Plotted with exponential curve fit
+</p>
+<p align="center">
 <img src="TEC_Testing.png" width="800" />
 
 
