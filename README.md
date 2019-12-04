@@ -17,6 +17,7 @@
 Testing setup
 <img src="Full_Setup.jpg" width="800" />
 
+
 Device Under Test (DUT)
 <img src="ClamShell.jpg" width="100%" />
 
