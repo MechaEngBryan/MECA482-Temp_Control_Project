@@ -1,6 +1,3 @@
-# Test
-## California State University, Chico Engineering
-## MECA 482 Controls - Temperature Control System Group Project Website
 
 <!--
   /*
@@ -8,6 +5,11 @@
    * https://mechaengbryan.github.io/MECA482-Temp_Control_Project/
    */
 -->
+
+## California State University, Chico Engineering
+## MECA 482 Controls - Temperature Control System Group Project Website
+
+<img src="TEC_Testing.png" width="800" />
 
 <!-- You can use the [editor on GitHub](https://github.com/MechaEngBryan/MECA482-Temp_Control_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
 
