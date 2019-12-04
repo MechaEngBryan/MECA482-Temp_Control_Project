@@ -19,13 +19,14 @@ Testing setup
 
 
 Device Under Test (DUT)
+
 <img src="ClamShell.jpg" width="35%" />
 
 Performing Test
-<img src="Testing.jpg" width="100%" />
+<img src="Testing.jpg" width="50%" />
 
 DMM with K-Type Thermocouple Displaying Temperature
-<img src="Temperature.jpg" width="100%" />
+<img src="Temperature.jpg" width="50%" />
 
 Results Plotted with exponential curve fit
 <img src="TEC_Testing.png" width="800" />
