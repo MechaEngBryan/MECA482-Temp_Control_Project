@@ -6,18 +6,28 @@
    */
 -->
 
-## California State University, Chico Engineering
+## California State University, Chico
+## Mecahanical and Mechatronic Engineering
 ## MECA 482 Controls - Temperature Control System Group Project Website
 
+
+
+
+<!-- the below embeds an image in website -->
+<img src="Full_Setup.jpg" width="800" />
+Testing setup
+<img src="ClamShell.jpg" />
+Device Under Test (DUT)
+<img src="Testing.jpg" width="50" />
+Performing Test
+<img src="Temperature.jpg" width="50" />
+DMM with K-Type Thermocouple Displaying Temperature
 <img src="TEC_Testing.png" width="800" />
+Results Plotted with exponential curve fit
 
-<!-- You can use the [editor on GitHub](https://github.com/MechaEngBryan/MECA482-Temp_Control_Project/edit/master/README.md) to maintain and preview the content for your website in Markdown files. -->
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+- this is a test
+```
 
 ```markdown
 Syntax highlighted code block
