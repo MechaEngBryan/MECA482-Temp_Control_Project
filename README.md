@@ -14,20 +14,21 @@
 
 
 <!-- the below embeds an image in website -->
-<img src="Full_Setup.jpg" width="800" />
 Testing setup
+<img src="Full_Setup.jpg" width="800" />
 
-<img src="ClamShell.jpg" width="20%" />
 Device Under Test (DUT)
+<img src="ClamShell.jpg" width="20%" />
 
-<img src="Testing.jpg" width="20%" />
 Performing Test
+<img src="Testing.jpg" width="20%" />
 
-<img src="Temperature.jpg" width="50" />
 DMM with K-Type Thermocouple Displaying Temperature
+<img src="Temperature.jpg" width="50" />
 
-<img src="TEC_Testing.png" width="800" />
 Results Plotted with exponential curve fit
+<img src="TEC_Testing.png" width="800" />
+
 
 ```
 - this is a test
