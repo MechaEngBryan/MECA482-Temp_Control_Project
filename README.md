@@ -19,7 +19,7 @@ Testing setup
 
 
 Device Under Test (DUT)
-<img src="ClamShell.jpg" width="100%" />
+<img src="ClamShell.jpg" width="35%" />
 
 Performing Test
 <img src="Testing.jpg" width="100%" />
