@@ -14,6 +14,10 @@
 <br/>
 <p align="center">
 Testing setup
+<br/>
+The power supplies were used to power the Peltiers(x3) and the 80mm x 80mm Fans (x2)
+<br/>
+MATLAB and an Arduino were used to supply PWM signal to Fans for Fan Speed
 <img src="Full_Setup.jpg" width="800" />
 
 <br/>
@@ -43,10 +47,15 @@ DMM with K-Type Thermocouple Displaying Temperature
 <br/>
 <br/>
 <p align="center">
-Results Plotted with exponential curve fit
+<br/>
+The input step command can be ignored on this plot, because this was not a closed loop test
+<br/>
+Test starting Temperature was 24 degrees Centigrade - it took ~2 minutes to achieve 4 degrees Centigrade
 </p>
 <p align="center">
 <img src="TEC_Testing.png" width="800" />
+<p align="center">
+Results Plotted with exponential curve fit
 
 
 ```
