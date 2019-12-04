@@ -10,31 +10,38 @@
 ## Mecahanical and Mechatronic Engineering
 ## MECA 482 Controls - Temperature Control System Group Project Website
 
-
-</p>
-</p>
+<br/>
+<br/>
 <p align="center">
 Testing setup
 <img src="Full_Setup.jpg" width="800" />
 
+<br/>
+<br/>
 <p align="center">
 Device Under Test (DUT)
 </p>
 <p align="center">
 <img src="ClamShell.jpg" width="35%" />
 
+<br/>
+<br/>
 <p align="center">
 Performing Test
 </p>
 <p align="center">
 <img src="Testing.jpg" width="50%" />
 
+<br/>
+<br/>
 <p align="center">
 DMM with K-Type Thermocouple Displaying Temperature
 </p>
 <p align="center">
 <img src="Temperature.jpg" width="50%" />
 
+<br/>
+<br/>
 <p align="center">
 Results Plotted with exponential curve fit
 </p>
