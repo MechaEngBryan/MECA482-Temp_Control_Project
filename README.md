@@ -63,6 +63,7 @@ Results Plotted with exponential curve fit
 <br/>
 <br/>
 
+<p align="center">
 The trend line equation was then taken from above collected data and converted to s domain
 </p>
 <p align="center">
