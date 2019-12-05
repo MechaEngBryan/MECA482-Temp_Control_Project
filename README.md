@@ -123,8 +123,25 @@ ylabel('temperature (degrees C)')
 title('SLAC Reservoir Clamshell Temperature Step Response')
 legend('model','experimental data','Interpolated data','63% rise time location','Location','NorthEast')
 
-
 ```
+
+<br/>
+<br/>
+<br/>
+
+<p align="center">
+The results from the above MATLAB script plotted
+</p>
+<p align="center">
+<img src="MATLAB_Script_Results.png" width="50%" />
+<p align="center">
+
+
+
+
+
+
+
 
 <!--
 ```markdown
