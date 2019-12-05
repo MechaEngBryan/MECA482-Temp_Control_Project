@@ -97,7 +97,7 @@ temp = [22.2 21.7 20.2 17.9 15.4 13.2 11.1 8.9 7.2 6 4.5 3.2 2.7];
 time = [10 20 30 40 50 60 70 80 90 100 110 120 130];
 
 %% Find tau by finding 63% of rise time, time
-temp_at_one_time_constant = (max(temp)-min(temp))*.27;
+temp_at_one_time_constant = (max(temp)-min(temp))*.37;
 
 %interpolating temperature data
 xq = min(time):.5:max(time);
@@ -142,7 +142,7 @@ legend('model','experimental data','Interpolated data','63% rise time location',
 The results from the above MATLAB script plotted
 </p>
 <p align="center">
-<img src="MATLAB_Script_Results.jpg" width="50%" />
+<img src="MATLAB_Script_Results.jpg" width="75%" />
 <p align="center">
 
 
