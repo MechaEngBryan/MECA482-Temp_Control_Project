@@ -32,6 +32,14 @@ Device Under Test (DUT)
 <br/>
 <br/>
 <p align="center">
+Parts list (not capturing clam shell)
+</p>
+<p align="center">
+<img src="Parts.png" width="50%" />
+
+<br/>
+<br/>
+<p align="center">
 Performing Test
 </p>
 <p align="center">
