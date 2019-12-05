@@ -103,8 +103,8 @@ t = 0;
 To = 34.701*exp(-.018*t);
 K = -34.701;            % DC gain
 tau = .018^-1;
-P = K/(tau*s+1);        % model transfer function
-[y,t] = step(P,130);    % model step response
+TF = K/(tau*s+1);        % model transfer function
+[y,t] = step(TF,130);    % model step response
 
 %% plot generation
 plot(time,temp,'rx',t,y+To,'b')
