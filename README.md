@@ -133,7 +133,7 @@ legend('model','experimental data','Interpolated data','63% rise time location',
 The results from the above MATLAB script plotted
 </p>
 <p align="center">
-<img src="MATLAB_Script_Results.png" width="50%" />
+<img src="MATLAB_Script_Results.jpg" width="50%" />
 <p align="center">
 
 
