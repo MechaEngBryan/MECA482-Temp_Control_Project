@@ -2,7 +2,7 @@
 <!--
   /*
    * webpage url
-   * https://mechaengbryan.github.io/MECA482-Temp_Control_Project/
+   *  https://mechaengbryan.github.io/
    */
 -->
 
