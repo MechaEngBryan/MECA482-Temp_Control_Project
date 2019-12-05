@@ -50,18 +50,29 @@ DMM with K-Type Thermocouple Displaying Temperature
 <br/>
 The input step command can be ignored on this plot, because this was not a closed loop test
 <br/>
-Test starting Temperature was 24 degrees Centigrade - it took ~2 minutes to achieve 4 degrees Centigrade
+Test initial Temperature was 24 degrees Centigrade - it took ~2 minutes to achieve 4 degrees Centigrade
+<br/>
+Sampling was performed using a stopwatch at 10 second intervals
 </p>
 <p align="center">
 <img src="TEC_Testing.png" width="800" />
 <p align="center">
 Results Plotted with exponential curve fit
 
+<br/>
+<br/>
+<br/>
 
-```
-alexis_hernandez
-```
+The trend line equation was then taken from above collected data and converted to s domain
+</p>
+<p align="center">
+<img src="Equations.png" width="50%" />
+<p align="center">
 
+<br/>
+<br/>
+
+<!--
 ```markdown
 Syntax highlighted code block
 
@@ -93,3 +104,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
