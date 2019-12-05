@@ -96,41 +96,22 @@ temp = [22.2 21.7 20.2 17.9 15.4 13.2 11.1 8.9 7.2 6 4.5 3.2 2.7];
 
 time = [10 20 30 40 50 60 70 80 90 100 110 120 130];
 
-%% Find tau by finding 63% of rise time, time
-temp_at_one_time_constant = (max(temp)-min(temp))*.37;
-
-%interpolating temperature data
-xq = min(time):.5:max(time);
-interp_temp = interp1(time,temp,xq);
-
-% while loop looking for match in temperature at 63% and interpolated
-% temperature
-percent = .2;
-temp_match = [0 0 0 0 0];
-while length(temp_match)>2
-    temp_match = interp_temp(interp_temp<temp_at_one_time_constant*(1+percent) & interp_temp>temp_at_one_time_constant*(1-percent));
-    percent = percent - .01;
-end
-
-loc = find(interp_temp==temp_match);
-loc_time = xq(loc);
-tau = loc_time;         % time constant
-
 %% Transfer Function and step response
 s = tf('s');
-To = 22.5;              % ambient/initial temperature
+%init temperature from exp trend line at t = 0
+t = 0;
+To = 34.701*exp(-.018*t);
 K = -34.701;            % DC gain
+tau = .018^-1;
 P = K/(tau*s+1);        % model transfer function
-[y,t] = step(P,110);    % model step response
-plot(t+30,y+To);
-hold
+[y,t] = step(P,130);    % model step response
 
 %% plot generation
-plot(time,temp,'rx',xq,interp_temp,'r.',loc_time,temp_match,'bo')
+plot(time,temp,'rx',t,y+To,'b')
 xlabel('time (sec)')
 ylabel('temperature (degrees C)')
 title('SLAC Reservoir Clamshell Temperature Step Response')
-legend('model','experimental data','Interpolated data','63% rise time location','Location','NorthEast')
+legend('experimental data','model','Location','NorthEast')
 
 ```
 
