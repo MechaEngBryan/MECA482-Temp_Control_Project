@@ -8,7 +8,8 @@
 
 ## California State University, Chico
 ## Mecahanical and Mechatronic Engineering
-## MECA 482 Controls - Temperature Control System Group Project Website
+## MECA 482 Controls - Temperature Control System - Group Project Website
+## MECA 440 Engineerinig Capstone - SLAC Reservoir Cooling System Modeling
 
 <br/>
 <br/>
