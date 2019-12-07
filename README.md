@@ -13,8 +13,10 @@
 
 <br/>
 <br/>
-#Introduction
+# Introduction
 Leveraging our Senior Capstone Project’s problem, we are creating a mathematical model that will programmatically capture the temperature control system. Our project is being tasked with controlling the temperature of a 4” in length x 0.5” in diameter 316 Stainless Steel cylinder – this cylinder is used as a holding reservoir for samples used during experimentation. Initial conditions for the cylinder are standard laboratory conditions e.g. 24°C and 50% RH. The final condition for the cylinder is 4 +/- 0.25°C after 5 minutes i.e. must achieve an average -5°C/minute ramp rate. 
+<br/>
+<br/>
 <br/>
 <p align="center">
 Testing setup
