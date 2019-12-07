@@ -11,12 +11,15 @@
 ## MECA 482 Controls - Temperature Control System - Group Project Website
 ## MECA 440 Engineerinig Capstone - SLAC Reservoir Cooling System Modeling
 
-</p>
+<p align="center">
+
 <br/>
-**Project Description**
+<br/>
+
 ### MATLAB Script used to analyze Transfer Function Response
 ```
-<br/>
+
+
 Leveraging our Senior Capstone Project’s problem, we are creating a mathematical model that will programmatically capture the temperature control system. Our project is being tasked with controlling the temperature of a 4” in length x 0.5” in diameter 316 Stainless Steel cylinder – this cylinder is used as a holding reservoir for samples used during experimentation. Initial conditions for the cylinder are standard laboratory conditions e.g. 24°C and 50% RH. The final condition for the cylinder is 4 +/- 0.25°C after 5 minutes i.e. must achieve an average -5°C/minute ramp rate
 <br/>
 <br/>
@@ -75,7 +78,10 @@ Sampling was performed using a stopwatch at 10 second intervals
 <img src="TEC_Testing.png" width="800" />
 <p align="center">
 Results Plotted with exponential curve fit
+<p align="center">
 
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
