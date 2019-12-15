@@ -121,10 +121,10 @@ TF = K/(tau*s+1);        % model transfer function
 
 %% plot generation
 plot(time,temp,'rx',t,y+To,'b')
-xlabel('time (sec)')
-ylabel('temperature (degrees C)')
+xlabel('Time [sec]')
+ylabel('Temperature [C]')
 title('SLAC Reservoir Clamshell Temperature Step Response')
-legend('experimental data','model','Location','NorthEast')
+legend('Raw data','Model','Location','NorthEast')
 
 ```
 
