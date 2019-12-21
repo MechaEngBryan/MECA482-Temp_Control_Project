@@ -11,8 +11,6 @@
 ## MECA 482 Controls - Temperature Control System - Group Project Website
 ## MECA 440 Engineerinig Capstone - SLAC Reservoir Cooling System Modeling
 
-<p align="center">
-
 <br/>
 <br/>
 
