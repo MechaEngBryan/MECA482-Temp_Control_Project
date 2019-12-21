@@ -150,6 +150,16 @@ The below captures the implemented Closed Loop Temperature Contoller using Simul
 
 
 
+<br/>
+<br/>
+<br/>
+<p align="center">
+Data collected during testing of the system
+<br/>
+<img src="Testing_Collected_Temp_Data2.jpg" width="800" />
+
+
+
 
 
 <!--
