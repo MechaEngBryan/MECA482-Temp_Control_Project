@@ -173,6 +173,8 @@ Unfortunately because of hardware limitations within the Arduino Uno we were usi
 <br/>
 <p align="center">
 Link to prototype testing below
+<br/>
+<p align="center">
 <a href="https://youtu.be/kgfhSX25HTA"
 target="_blank"><img src="2019-12-09 22.28.17.jpg" 
 alt="Prototype Testing" width="240" height="180" border="10" /></a>
