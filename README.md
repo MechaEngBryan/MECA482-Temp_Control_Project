@@ -168,11 +168,12 @@ Data collected during testing of the system
 <p align="center">
 Unfortunately because of hardware limitations within the Arduino Uno we were using (32kb Flash memory) we were not able to compile and execute the simulink model on the microcontroller in a standalone configuration. Alternative microcontrollers have since been identified.
 
+<br/>
+<br/>
+<br/>
+<p align="center">
+Link to prototype testing below
+<a href="https://youtu.be/kgfhSX25HTA"
+target="_blank"><img src="2019-12-09 22.28.17.jpg" 
+alt="Prototype Testing" width="240" height="180" border="10" /></a>
 
-<!--
-  /*
-* <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-* " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-* alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-*/
--->
