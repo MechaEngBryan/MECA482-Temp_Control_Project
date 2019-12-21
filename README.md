@@ -159,6 +159,11 @@ Data collected during testing of the system
 <img src="Testing_Collected_Temp_Data5.jpg" width="800" />
 
 
+<br/>
+<br/>
+<br/>
+<p align="center">
+Unfortunately because of hardware limitations within the Arduino Uno we were using (32kb Flash memory) we were not able to compile and execute the simulink model on the microcontroller in a standalone configuration. Alternative microcontrollers have since been identified.
 
 
 
