@@ -97,7 +97,8 @@ The trend line equation was then taken from above collected data and converted t
 
 
 ### MATLAB Script used to analyze Transfer Function Response
-```
+
+<pre>
 
 %MECA 482 - Thermal Response
 %12/4/2019
@@ -126,7 +127,7 @@ ylabel('Temperature [C]')
 title('SLAC Reservoir Clamshell Temperature Step Response')
 legend('Raw data','Model','Location','NorthEast')
 
-```
+</pre>
 
 <br/>
 <br/>
@@ -164,3 +165,12 @@ Data collected during testing of the system
 <br/>
 <p align="center">
 Unfortunately because of hardware limitations within the Arduino Uno we were using (32kb Flash memory) we were not able to compile and execute the simulink model on the microcontroller in a standalone configuration. Alternative microcontrollers have since been identified.
+
+
+<!--
+  /*
+* <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+* " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+* alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+*/
+-->
