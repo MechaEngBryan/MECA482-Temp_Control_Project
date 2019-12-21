@@ -139,7 +139,13 @@ The results from the above MATLAB script plotted
 <img src="MATLAB_Script_Results.jpg" width="75%" />
 <p align="center">
 
-
+<br/>
+<br/>
+<br/>
+<p align="center">
+The below captures the implemented Closed Loop Temperature Contoller using Simulink
+<br/>
+<img src="Simulink.jpg" width="800" />
 
 
 
